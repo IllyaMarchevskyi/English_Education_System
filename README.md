@@ -7,8 +7,8 @@ Education in English-speaking
 
 1. [Read and translate the first part of text](https://github.com/IllyaMarchevskyi/English_Education_System/blob/main/Read_and_translate_the_first_part.md)
 2. [Read and translate the second part of text](https://github.com/IllyaMarchevskyi/English_Education_System/blob/main/Read_and_translate_the_second_part.md)
-3. [LKW to frist parts of text](Read_and_translate_the_first_part.md)
-4. [LKW to second parts of text](Read_and_translate_the_second_part.md)
+3. [LKW to frist parts of text](LKW_to_first_part.md)
+4. [LKW to second parts of text](LKW_to_second_part.md)
 
 # Topic 2
 
