@@ -29,11 +29,11 @@ Education in English-speaking
 
 # Topic 6
 
-1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
-2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
+1. [TASK 13 (R/T) Read and translate text 6.Завдання](r_t_6.md)
+2. [Task 14 (LKW) Make up your own list of key/unknown words to the text 6.](w_6.md)
 
 # Topic 7
 
-1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
-2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
+1. [TASK 15 (R/T) Read and translate text 7.Завдання](r_t_7.md)
+2. [Task 16 (LKW) Make up your own list of key/unknown words to the text 7.Завдання](w_7.md)
 
