@@ -27,6 +27,9 @@ Education in English-speaking
 
 # Topic 5
 
+1. [Task 11 (LKW) Make up your list of key/unknown words (phrases) to the text 5.](w_5.md)
+2. [Task 12 Make up your own presentation about Computer Programming Languages](w_5.md)
+
 # Topic 6
 
 1. [TASK 13 (R/T) Read and translate text 6.Завдання](r_t_6.md)
