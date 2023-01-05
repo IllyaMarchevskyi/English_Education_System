@@ -25,3 +25,15 @@ Education in English-speaking
 1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
 2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
 
+# Topic 5
+
+# Topic 6
+
+1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
+2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
+
+# Topic 7
+
+1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
+2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
+
