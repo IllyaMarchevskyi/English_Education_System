@@ -15,8 +15,8 @@ Education in English-speaking
 1. [LKW to text "The best countries to study Information technology"](w_t_2.md)
 2. [My own presentation about the best university for IT education](text_2.md)
 
-#Topic 3 
+# Topic 3 
 
-1. [Read, translate the text 3, make up a list of key/unknown words (phrases)]()
+1. [Read, translate the text 3, make up a list of key/unknown words (phrases)](r_t_w_3.md)
 2. [Task 8 Make up your own list of statements about what inclusive education means for you.]()
 
