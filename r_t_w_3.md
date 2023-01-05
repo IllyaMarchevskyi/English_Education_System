@@ -1,28 +1,28 @@
 **_Список ключових та невідомих слів/фраз_**
 
-    1. **Inclusion** -  інклюзія
+1. **Inclusion** -  інклюзія
 
-    2. **ensuring** - забезпечення
+2. **ensuring** - забезпечення
     
-    3. **interchangeably** - взаємозамінні
+3. **interchangeably** - взаємозамінні
     
-    4. **merit** - заслуги
+4. **merit** - заслуги
+
+5. **disabilities** - worldwide обмежених можливостей у всьому світі
     
-    5. **disabilities** - worldwide обмежених можливостей у всьому світі
+6. **special** - needs особливі потреби
     
-    6. **special** - needs особливі потреби
+7. **rehabilitation** - реабілітація
     
-    7. **rehabilitation** - реабілітація
+8. **enshrined** - закріплений
     
-    8. **enshrined** - закріплений
+9. **dormitories** - гуртожитки
     
-    9. **dormitories** - гуртожитки
+10. **adaptive hardware** - адаптивне обладнання
     
-    10. **adaptive hardware** - адаптивне обладнання
-    
-    11. **increased fatigue** - підвищена стомлюваність
-    
-    12. **low self-esteem vulnerability** - низька самооцінка вразливість
+11. **increased fatigue** - підвищена стомлюваність
+
+12. **low self-esteem vulnerability** - низька самооцінка вразливість
 
 INCLUSION IN EDUCATION
 
