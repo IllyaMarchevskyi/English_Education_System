@@ -40,6 +40,6 @@ Education in English-speaking
 1. [TASK 15 (R/T) Read and translate text 7.Завдання](r_t_7.md)
 2. [Task 16 (LKW) Make up your own list of key/unknown words to the text 7.Завдання](w_7.md)
 
-## [Module Control Work](module.md) 
+## [Module Control Work](https://docs.google.com/spreadsheets/d/1TMT9R8yIkdGIVaO7GBa83ebOBS62aC1CBlQaEJjUT38/edit#gid=0)
 
 
