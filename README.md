@@ -20,3 +20,8 @@ Education in English-speaking
 1. [Read, translate the text 3, make up a list of key/unknown words (phrases)](r_t_w_3.md)
 2. [Task 8 Make up your own list of statements about what inclusive education means for you.]()
 
+# Topic 4
+
+1. [Task (R/T) 9 Read and translate text 4](r_t_4.md)
+2. [Task (LKW) 10 Make up your own list of key/unknown words to the text 4](w_4.md)
+
