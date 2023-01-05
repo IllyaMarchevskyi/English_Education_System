@@ -12,8 +12,8 @@ Education in English-speaking
 
 # Topic 2
 
-1. [LKW to text "The best countries to study Information technology"]()(not ready)
-2. [My own presentation about the best university for IT education]()(not ready)
+1. [LKW to text "The best countries to study Information technology"](w_t_2.md)
+2. [My own presentation about the best university for IT education](text_2.md)
 
 #Topic 3 
 
